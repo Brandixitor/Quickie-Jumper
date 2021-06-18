@@ -3,9 +3,8 @@ Project started from scratch by Brandixitor on 18/06/2021 as a celebration of fi
 
 
 ## Game Basics.
-- 18/06/2021 - here </br>
-here </br>
-here</br>
+- 18/06/2021 - Started working on the main menu. </br>
+
 
 
 
