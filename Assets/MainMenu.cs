@@ -5,9 +5,12 @@ using UnityEngine.SceneManagement;
 
 public class MainMenu : MonoBehaviour
 {
-  public void PlayGame ()
+  //Function to start the game upon clicking on PLAY.
+    public void PlayGame ()
   {
       SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
   }
+
+
 
 }
