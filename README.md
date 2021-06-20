@@ -9,7 +9,7 @@ Finished working on the UI for the MainMenu and the OptionsMenu. </br>
 - 19/06/2021 - Finished working on the PlayGame script. </br>
 Finished working on the QuitGame script. </br>
 
-- 20/06/2021 - Finished working on transition between the menu scenes.. </br>
+- 20/06/2021 - Finished working on transition between the menu scenes. </br>
 Added a loop sound to the main menu. </br>
 
 
