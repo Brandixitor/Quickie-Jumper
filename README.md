@@ -12,6 +12,7 @@ Finished working on the QuitGame script. </br>
 - 20/06/2021 - Finished working on transition between the menu scenes. </br>
 Added a loop sound to the main menu. </br>
 Started working on the first GamePlay scene. </br>
+Added a pathway and a 3D model for the first GamePlay scene. </br>
 
 
 
