@@ -15,6 +15,7 @@ Started working on the first GamePlay scene. </br>
 Added a pathway and a 3D model for the first GamePlay scene. </br>
 
 - 21/06/2021 - Added horizontal and vertical movement to the character. </br>
+Added a mesh collider and a box collider to both the ground and the main character. </br>
 
 
 
