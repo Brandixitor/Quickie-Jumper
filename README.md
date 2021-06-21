@@ -14,6 +14,7 @@ Added a loop sound to the main menu. </br>
 Started working on the first GamePlay scene. </br>
 Added a pathway and a 3D model for the first GamePlay scene. </br>
 
+- 21/06/2021 - Added horizontal and vertical movement to the character. </br>
 
 
 
