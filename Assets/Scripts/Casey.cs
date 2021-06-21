@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class Casey : MonoBehaviour
 {
+
+    public float movementSpeend = 10f;
     // Start is called before the first frame update
     void Start()
     {
@@ -13,6 +15,9 @@ public class Casey : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.Translate(5f * Time.deltaTime, 0f, 0f);
+        float hMovement = Input.GetAxis("Horizontal") * movementSpeend / 2;
+        float vMovement = Input.GetAxis("Vertical") * movementSpeend;
+
+        transform.Translate(new Vector3(hMovement, 0, vMovement) * Time.deltaTime);
     }
 }
